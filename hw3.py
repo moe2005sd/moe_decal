@@ -124,5 +124,3 @@ def digital_root(num):
 
 num = 2468
 print(digital_root(num))
-
-
